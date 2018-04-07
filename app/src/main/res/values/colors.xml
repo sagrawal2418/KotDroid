@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">@android:color/white</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="black">@android:color/black</color>
+    <color name="redBtn">#CC4040</color>
+    <color name="greenBtn">#40CC47</color>
+    <color name="hintGrey">#CACACF</color>
+    <color name="divider">#88ffffff</color>
+    <color name="verticalDivider">#aaffffff</color>
+    <color name="yellowBtn">#F0DF06</color>
+    <color name="yellowTxt">#CDDF2D</color>
+    <color name="whiteBtn">#eeffffff</color>
+    <color name="hintWhite">#eeffffff</color>
+    <color name="dividerList">#66075370</color>
+    <color name="blueTxt">#0BCBEC</color>
+    <color name="blueCircle">#058DA4</color>
+    <color name="redTxt">#F80040</color>
+    <color name="blueVertDivider">#43889F</color>
+    <color name="greyTxt">#858585</color>
+    <color name="ltGreyTxt">#A9BDBD</color>
+    <color name="greenStatus">#2ADE75</color>
+    <color name="greyStatus">#A9A9A9</color>
+    <color name="greyOuterCircle">#FFFFFF</color>
+    <color name="greenRowBg">#206666</color>
+    <color name="blueStar">#07DFDF</color>
+    <color name="greenViewCommment">#76A147</color>
+    <color name="darkBlueRadial">#06506A</color>
+    <color name="greenishRadial">#0B898B</color>
+    <color name="partialTransWhite">#22ffffff</color>
+    <color name="dividerPartial">#44ffffff</color>
+</resources>
